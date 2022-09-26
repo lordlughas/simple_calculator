@@ -1,0 +1,25 @@
+{
+  "name": "simple_calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator using npm modules",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/lordlughas/simple_calculator.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Charles Lughas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordlughas/simple_calculator/issues"
+  },
+  "homepage": "https://github.com/lordlughas/simple_calculator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
