@@ -6,9 +6,10 @@ It is a project that implements the usage of Nodejs on the server side.This is t
 the use of *Request and Responses* to a route. Also running a simple server.
 ***
 
-##Steps:
+## Steps
+
 * run your terminal
-* reate a folder for simple calculator
+* create a folder for simple calculator
 * create a new file called *calculator.js*
 * set up a new NPM package `npm init`
 * open the project folder in your editor
@@ -17,9 +18,12 @@ the use of *Request and Responses* to a route. Also running a simple server.
 * setup express
 * create a root route get method with `app.get()`
 * send the words *Hello World* from the root route as the response
+* create `app.post` method for parsing computational values
 
-##Technology:
-*Javascript*
+## Technology
 
-##Framework:
+*Javascript* *Nodejs*
+
+## Framework
+
 *Expressjs*
